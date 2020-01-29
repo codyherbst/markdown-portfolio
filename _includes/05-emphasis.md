@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Awesome Attributes__
+_I enjoy making people laugh_
+_I enjoy practicing a skill_
