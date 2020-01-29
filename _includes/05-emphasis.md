@@ -1,3 +1,3 @@
-__Awesome Attributes__
-_I enjoy making people laugh_
+__Awesome Attributes:__
+_I enjoy making people laugh;_
 _I enjoy practicing a skill_
